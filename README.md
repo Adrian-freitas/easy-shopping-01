@@ -12,4 +12,6 @@
 <p>👨‍💻 ADRIAN FREIRE</p>
 
 📧adrianfreie@gmail.com
+<img src= "https://github.com/Adrian-freitas/easy-shopping-02/blob/master/img/segunda%20foto%20(2).png?raw=true">
+<br>
 <img src= "https://github.com/Adrian-freitas/easy-shopping-02/blob/master/img/Desktop.png?raw=true">
